@@ -44,7 +44,7 @@ flutter doctor
 ### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/Nitingadhiya/task_reminder.git
+git clone https://github.com/Nitingadhiya/task_reminder_app.git
 ```
 
 ### 2. Run Flutter app
